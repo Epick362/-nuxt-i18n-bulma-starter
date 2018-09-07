@@ -1,0 +1,24 @@
+@import "~bulma/sass/utilities/initial-variables";
+
+$palette-1: #1687C5;
+$palette-2: #199CE3;
+$palette-3: #F8F8F8;
+$palette-4: #1F2733;
+$palette-5: #E30613;
+
+$section-background: #1687C5;
+
+$fullhd: $widescreen;
+
+$primary: $palette-1 !default;
+
+$info: $blue !default;
+$success: $green !default;
+$warning: $yellow !default;
+$danger: $red !default;
+
+$body-background-color: $palette-3;
+$text: $palette-4 !default;
+
+$family-primary: 'Open Sans', BlinkMacSystemFont,-apple-system,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue","Helvetica","Arial",sans-serif;
+$family-secondary: 'Exo 2.0', $family-primary;

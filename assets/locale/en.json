@@ -1,0 +1,13 @@
+{
+  "general": {
+    "title": "Index",
+    "menu": {
+      "home": "Home"
+    },
+    "language": "Language",
+    "locales": {
+      "en": "English",
+      "sk": "Slovak"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "general": {
+    "title": "Domov",
+    "menu": {
+      "home": "Domov"
+    },
+    "language": "Jazyk",
+    "locales": {
+        "en": "English",
+        "sk": "Slovak"
+    }
+  }
+}
