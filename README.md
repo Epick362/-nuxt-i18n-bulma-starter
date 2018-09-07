@@ -1,4 +1,5 @@
-# eDocu homepage
+# Nuxt.js, Bulma starter pack
+Includes i18n, Font Awesome 5.0, Google Analytics and other goodies.
 
 ## Build Setup
 
