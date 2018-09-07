@@ -7,12 +7,18 @@
               <h1 class="title">
                 Nuxt.js+i18n and Bulma starter pack.
               </h1>
+
+              <h2 class="subtitle">
+                Includes font-awesome, google analytics, a basic carousel and slide up plugins.
+              </h2>
           </div>
       </div>
     </section>
 
     <section class="section">
-      Includes font-awesome, google analytics, a basic carousel and slide up plugins.
+      <div class="container">
+        This is a section.
+      </div>
     </section>
 
     <Footer />

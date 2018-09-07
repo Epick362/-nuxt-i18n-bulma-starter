@@ -3,7 +3,7 @@
     <div class="container">
       <div class="navbar-brand">
         <nuxt-link class="navbar-item" :to="localePath('/')">
-          <img src="/logo.png" alt="eDocu" height="53">
+          <img src="/logo.png" alt="Logo" height="53">
         </nuxt-link>
 
         <div @click="makeBurger" class="button navbar-burger" data-target="navMenu" v-bind:class="{ 'is-active': activator }">
